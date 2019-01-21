@@ -1,7 +1,7 @@
-# BingNewsSearch
+# Bing News Search
 Bing News Search Tutorial
 This sample is the code presented in this tutorial by CodeStories.gr  
-Tutorial Link: http://www.codestories.gr/?p=450&preview=true  
+Tutorial Link: http://www.codestories.gr/index.php/2019/01/21/cognitive-services-bing-news-search/ 
   
 For more tutorials and news find me:   
 Blog: http://www.codestories.gr  
